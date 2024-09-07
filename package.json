@@ -2,7 +2,7 @@
   "name": "whatsapp-bot",
   "version": "1.0.0",
   "description": "Bot de WhatsApp",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "start": "node server.js"
   },
